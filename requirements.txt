@@ -1,12 +1,26 @@
+# Streamlit
+streamlit==1.39.0
+
+# PyTorch & related
 torch==2.5.0
 torchvision==0.20.0
-segmentation_models_pytorch==0.5.0
 timm==1.0.20
-opencv-python-headless==4.10.0.84
-streamlit==1.39.0
+segmentation_models_pytorch==0.5.0
+
+# Data processing
 numpy==2.2.1
 pandas==2.2.3
 scikit-learn==1.6.0
 scipy==1.14.1
+
+# Images
 pillow==11.0.0
+opencv-python-headless==4.10.0.84
 matplotlib==3.9.2
+
+# Optional/utility
+rich==14.1.0
+markdown-it-py==4.0.0
+pygments==2.19.2
+mdurl==0.1.2
+
