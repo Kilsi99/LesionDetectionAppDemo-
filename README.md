@@ -1,4 +1,4 @@
-# SkinLesionAI
+# SkinLesionAI: Demo 
 
 AI-powered application for **segmentation and classification of dermatological lesions** using advanced computer vision and explainable AI.
 
@@ -23,7 +23,7 @@ SkinLesionAI performs:
 
 ## Installation
 ```bash
-git clone https://github.com/yourusername/SkinLesionAI.git
+git clone https://github.com/Kilsi99/LesionDetectionAppDemo-.git
 cd SkinLesionAI
 pip install -r requirements.txt
 streamlit run app.py
@@ -41,4 +41,3 @@ This project demonstrates end-to-end AI deployment in dermatology, showcasing sk
 - Computer vision and medical image analysis
 - Explainable AI (Grad-CAM)
 - Full-stack ML application development
-- Containerization with Docker
