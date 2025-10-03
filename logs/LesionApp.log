@@ -424,3 +424,4 @@
 2025-10-03 10:24:34,251 - INFO - app.services.segmentation_service - Segmentation successful: Lesion area=4301499, Diameter=2340.2646492306712
 2025-10-03 11:09:50,173 - ERROR - app.services.metadata_service - Failed to load meta preprocessor: STACK_GLOBAL requires str
 2025-10-03 11:09:50,683 - INFO - app.services.segmentation_service - Segmentation model loaded successfully
+2025-10-03 11:20:32,237 - INFO - app.services.segmentation_service - Segmentation model loaded successfully
