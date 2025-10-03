@@ -11,5 +11,6 @@ pillow
 opencv-python-headless
 matplotlib
 anyio
+joblib
 
 
